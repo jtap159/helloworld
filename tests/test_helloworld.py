@@ -1,4 +1,4 @@
-from helloworld.helloworld import sayhello
+from helloworld import sayhello
 
 
 def test_helloworld_no_params():
